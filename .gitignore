@@ -1,0 +1,27 @@
+data/
+experiments/
+logs/
+trash/
+weights_out/
+results/
+
+# build artifacts
+__pycache__/
+*.pyc
+
+# editor
+.vscode/
+
+# large / third-party binaries
+SMPL_NEUTRAL.pkl
+SOTA_layers.tar.gz
+
+# demo assets (not part of the pipeline)
+demo.png
+pose_alphas.png
+sample.png
+pose_encoding_demo.ipynb
+
+# scratch
+scripts/others/
+test_sbatch.sh

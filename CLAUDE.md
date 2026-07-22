@@ -1,0 +1,1 @@
+- Use slurm file "slurms/encoding.sh" to test scripts. Change the script name, and submit using SBATCH command
