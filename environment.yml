@@ -1,0 +1,29 @@
+name: pose
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pytorch=2.4.0
+  - pytorch-cuda=12.1
+  - torchvision
+  - jupyter
+  - pip
+  - pip:
+    - tqdm
+    - nibabel
+    - nilearn
+    - seaborn
+    - pandas
+    - pyarrow
+    - joblib
+    - scikit-learn
+    - matplotlib
+    - plotly
+    - smplx==0.1.28
+    - opencv-python
+    - git+https://github.com/mattloper/chumpy
+    - himalaya
+    - statsmodels
