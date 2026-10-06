@@ -102,7 +102,7 @@ pose_encoding/
 
 ## 3. Data
 
-All data generated in this study are deposited at Zenodo (DOI: 10.5281/zenodo.23169218; CC BY 4.0). The deposit includes:
+All data generated in this study are deposited at Zenodo (DOI: 10.5281/zenodo.23195014; CC BY 4.0). The deposit includes:
 
 * behavioral ratings and train/test splits for the 250-video and 500-video sets;
 * frame-level and video-level 3D pose features (body joints, 3D/2D positions and facing directions) for the 500-video set;
@@ -335,7 +335,7 @@ If you use this code, please cite the paper, the code archive, and the data depo
   title={Data for ``Simple 3D Pose Features Support Human and Machine Social Scene Understanding''},
   author={Qin, Wenshuo and Isik, Leyla},
   publisher={Zenodo},
-  doi={10.5281/zenodo.23169218},
+  doi={10.5281/zenodo.23195014},
   year={2026}
 }
 ```
